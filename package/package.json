@@ -1,0 +1,18 @@
+{
+  "name": "@keshav-0907/is-mobile.js",
+  "version": "1.0.0",
+  "description": "Efficient npm package for detecting mobile devices in web applications.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Keshav-0907/is-mobile-npm.git)"
+  },
+  "keywords": [
+    "responsive"
+  ],
+  "author": "Keshav Malik",
+  "license": "ISC"
+}
